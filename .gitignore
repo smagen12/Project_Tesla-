@@ -1,0 +1,64 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Pytest cache
+.pytest_cache/
+
+# VS Code
+.vscode/
+
+# Data & Output Files (optional, if large)
+*.csv
+*.xlsx
+*.h5
+*.hdf5
+*.log
+*.out
+
+# Model files (optional)
+*.joblib
+*.pkl
+*.h5
+*.ckpt
+*.pb
+
+# TensorBoard logs
+logs/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# KerasTuner output
+tuning/
+
+# Ignore virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# TensorFlow binaries
+*.pyd
+*.so
+*.dll
+*.h5
+*.pb
+*.ckpt
+
+# Large data or model files (optional)
+*.zip
+*.tar.gz
+*.csv
