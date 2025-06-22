@@ -12,3 +12,5 @@ keras-tuner==1.4.6
 # Model Selection & Tuning
 keras==3.3.3
 
+#testing 
+pytest
